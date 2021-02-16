@@ -1,0 +1,20 @@
+name: MapMaker
+author: Izmoqwy
+version: ${project.version}
+main: net.lightning.mapmaker.MapMaker
+
+depend:
+  - WorldEdit
+softdepend:
+  - Core
+  - Capture
+
+commands:
+  mapmaker:
+    description: Set values for map by following a map template.
+    aliases: [mk]
+    permissions: mapmaker.command
+
+permissions:
+  mapmaker.command:
+    default: op

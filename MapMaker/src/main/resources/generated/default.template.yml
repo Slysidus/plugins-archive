@@ -1,0 +1,3 @@
+name: net.lightning.core.map.GameMapModel|name|java.lang.String|17|0|null|[0,1,0,20,0,0] name name true false -1 net.lightning.core.loader.ConfigValueAdapter
+max-players: net.lightning.core.map.GameMapModel|maxPlayers|short|17|1|null|null max-players max-players true false -1 net.lightning.core.loader.ConfigValueAdapter
+bounds: net.lightning.core.map.GameMapModel|bounds|net.lightning.core.world.NaiveRegion|17|2|null|null bounds bounds false false -1 net.lightning.core.loader.ConfigValueAdapter

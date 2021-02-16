@@ -1,0 +1,6 @@
+name: LightningProxy
+main: net.lightning.proxy.LightningProxy
+version: ${project.version}
+
+author: Izmoqwy
+description: Lightning's proxy main plugin.

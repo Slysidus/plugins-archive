@@ -1,0 +1,12 @@
+name: Lobby
+version: ${project.version}
+main: net.lightning.lobby.Lobby
+
+softdepend:
+  - WorldEdit
+
+commands:
+  grief:
+    description: Allows administrators to edit the world
+  spawn:
+    description: Teleports you back to the spawn

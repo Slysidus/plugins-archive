@@ -1,0 +1,1 @@
+/home/izmoqwy/dev/lightning-mc/deploy.sh

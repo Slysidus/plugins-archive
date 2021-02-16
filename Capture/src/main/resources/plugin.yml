@@ -1,0 +1,5 @@
+name: Capture
+version: ${project.version}
+main: net.lightning.capture.Capture
+
+softdepend: [MapMaker]

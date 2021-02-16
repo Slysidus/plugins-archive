@@ -1,0 +1,15 @@
+assigned-to: net.lightning.capture.game.CaptureGame
+name: Default
+max-players: 40
+
+teams:
+  red:
+    spawn-location:
+      x: 0
+      y: 150
+      z: -25
+  blue:
+    spawn-location:
+      x: 0
+      y: 150
+      z: 25
